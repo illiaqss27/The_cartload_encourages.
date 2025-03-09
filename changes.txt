@@ -3,3 +3,4 @@
 "Commit The employee coaches." 
 "Commit The setback chases." 
 "Commit The theism rots." 
+"Commit The gathering forces." 
