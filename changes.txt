@@ -28,3 +28,4 @@
 "Commit The bankruptcy sticks." 
 "Commit The buyer tastes." 
 "Commit The trigger fools." 
+"Commit The duration yawns." 
