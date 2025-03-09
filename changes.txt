@@ -20,3 +20,4 @@
 "Commit The amenity yells." 
 "Commit The architecture hurries." 
 "Commit The combination fetches." 
+"Commit The clergyman shrugs." 
