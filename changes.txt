@@ -36,3 +36,4 @@
 "Commit The formula initiates." 
 "Commit The production rules." 
 "Commit The biscuit feeds." 
+"Commit The initial qualifies." 
